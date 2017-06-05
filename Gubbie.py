@@ -3,7 +3,7 @@
 # The purpose of the simulation will be to act as a reference for the real dog Gubbie
 # in order to assist with dosage predictability.
 
-
+# Version 0.1
 
 import sys
 string=sys.argv[1]
